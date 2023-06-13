@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608261211107",
+    "firebase_url": "https://florida-50c8b-default-rtdb.firebaseio.com",
+    "project_id": "florida-50c8b",
+    "storage_bucket": "florida-50c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608261211107:android:901f17575fad0d2f7956d6",
+        "android_client_info": {
+          "package_name": "com.example.florida_app_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608261211107-k7j22p0rjmfdsr5gea3uq7rsmjjcr8v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.florida_app_store",
+            "certificate_hash": "3da1f0334044140343a487aa272ee78097f3e738"
+          }
+        },
+        {
+          "client_id": "608261211107-7d912c4q010r98ug0hrs5217fhg6db2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpvXZYGJNB9bxZQXqOATTJ56WEOr1lz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608261211107-7d912c4q010r98ug0hrs5217fhg6db2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608261211107-07tph27m0ho8sc0jl5oav5u48hbhaksn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.floridaAppStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
