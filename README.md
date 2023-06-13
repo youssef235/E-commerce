@@ -1,16 +1,13 @@
 # florida_app_store
-
-A new Flutter project.
+![E-Commerce Facebook Ad](https://github.com/youssef235/e-commerce/assets/55225729/919dcb85-f71a-4fcb-a6b7-7721ded4ca73)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- E-commerce application (clothing departments currently)
+- All screens are connected to Firebase
+- Allows multiple payment methods (cash - payment card - reference code)
+- Integration with paymob
+- Two screens for admins only
+     - a screen to upload the product with all the pictures, and add the product name, sizes, details, and its category
+     - the other screen to see the orders
+- Ease of ordering, adding to the shopping cart, and viewing the purchased goods for each user
